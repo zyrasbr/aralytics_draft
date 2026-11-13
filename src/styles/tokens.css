@@ -1,0 +1,32 @@
+:root {
+  --navy: #1a1851;
+  --navy-2: #2f2e86;
+  --navy-3: #3a3b63;
+  --slate: #5b5d7a;
+  --muted: #8b8da8;
+  --amber: #fcb316;
+  --amber-bg: #fff4dc;
+  --amber-ink: #6b4700;
+  --amber-soft: #fffaf0;
+  --amber-soft-2: #fff9ec;
+  --amber-line: #fde2a1;
+  --lav-1: #c9cae3;
+  --lav-2: #8e8fc0;
+  --lav-3: #b9bad6;
+  --chip: #e8e8f8;
+  --surface: #f6f7fb;
+  --surface-2: #f6f6fb;
+  --field-bg: #f1f2f8;
+  --line: #e9ebf3;
+  --line-2: #e6e6f0;
+  --line-3: #f0f0f6;
+  --input-line: #cfd0e0;
+  --red-bg: #fde8e8;
+  --red-ink: #8a1c1c;
+  --green: #2e9e6b;
+  --green-bg: #e3f5ea;
+  --green-ink: #17613a;
+  --shadow: 0 1px 2px rgba(26, 24, 81, 0.04), 0 10px 28px rgba(26, 24, 81, 0.05);
+  --shadow-lg: 0 24px 60px rgba(26, 24, 81, 0.12);
+  --font: Inter, system-ui, sans-serif;
+}
